@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am front-end developer and design enthusiast. I currently living in SFO California 🇺🇸, grew up in India 🇮🇳.
+I am a front-end developer and design enthusiast. I currently living in SFO California 🇺🇸, grew up in India 🇮🇳.
 
 <!--
 **vandanabhat/vandanabhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
